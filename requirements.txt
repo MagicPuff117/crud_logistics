@@ -3,3 +3,4 @@ django-heroku
 django
 djangorestframework
 psycopg2-binary
+djangorestframework-filters
