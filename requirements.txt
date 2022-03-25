@@ -2,4 +2,5 @@ gunicorn
 django-heroku
 django
 djangorestframework
+django-filter
 psycopg2-binary
