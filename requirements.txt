@@ -4,4 +4,3 @@ django
 djangorestframework
 django-filter
 psycopg2-binary
-cmatrix
